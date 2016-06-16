@@ -1,0 +1,8 @@
+DUMB's GUIDE.
+
+
+Project uses Flask to deploy.
+
+Run routes.py file.
+Get the hyperlink along with the port number and run it in browser.
+Run various link or use the GUI on homepage to execute various commands.
