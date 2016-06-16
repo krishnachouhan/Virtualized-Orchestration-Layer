@@ -2,6 +2,7 @@ DUMB's GUIDE.
 
 
 Project uses Flask to deploy.
+It uses virtual manager(to manage virtual machines).
 
 Run routes.py file.
 Get the hyperlink along with the port number and run it in browser.
